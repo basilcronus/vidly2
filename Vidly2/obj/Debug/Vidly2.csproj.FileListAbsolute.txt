@@ -98,7 +98,6 @@ C:\sandbox\Vidly2\Vidly2\obj\Debug\Vidly2.Migrations.InitialModel.resources
 C:\sandbox\Vidly2\Vidly2\obj\Debug\Vidly2.csproj.GenerateResource.Cache
 C:\sandbox\Vidly2\Vidly2\obj\Debug\Vidly2.Migrations.AddIsSubscribedToCustomer.resources
 C:\sandbox\Vidly2\Vidly2\obj\Debug\Vidly2.Migrations.AddMembershipType.resources
-C:\sandbox\Vidly2\Vidly2\obj\Debug\Vidly2.Migrations.PopulateMembershipTypes.resources
 C:\sandbox\Vidly2\Vidly2\obj\Debug\Vidly2.Migrations.ApplyAnnotationsToCustomerName.resources
 C:\sandbox\Vidly2\Vidly2\obj\Debug\Vidly2.Migrations.AddMembershipTypeName.resources
 C:\sandbox\Vidly2\Vidly2\obj\Debug\Vidly2.Migrations.PopulateMembershipTypesName.resources
